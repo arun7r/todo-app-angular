@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto&display=swap');
+
+.main{
+    margin: 50px;
+    padding: 50px;
+    border: 2px #3974d3 solid;
+    border-radius: 10px;
+    margin-top: 120px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+footer{
+    bottom: 0;
+    width: 100%;
+}

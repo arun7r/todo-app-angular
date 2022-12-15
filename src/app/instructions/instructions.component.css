@@ -1,0 +1,55 @@
+*{
+	font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    display: flex;
+    justify-content:center;
+    color: #4285F4;
+}
+
+.button{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.main{
+    font-size: 50px;
+}
+
+.todo-submit {
+	width: 100%;
+	max-width: 200px;
+	border: none;
+	border-radius: 5px;
+
+	background-color: #4285F4;
+	color: #FFF;
+
+	padding: 10px 15px;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.todo-submit:hover{
+	background-color:#3974d3;
+}
+
+.delete {
+	width: 100%;
+	max-width: 200px;
+	border: none;
+	border-radius: 5px;
+	background-color: #DB4437;
+	color: #FFF;
+
+	padding: 10px 15px;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.delete:hover{
+	background-color:#a8342a;
+}
